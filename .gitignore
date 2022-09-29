@@ -1,7 +1,9 @@
 **/out.txt
 **/out_sample.txt
 **/src/*.class
-data
+data/PA1*
+data/reset_sample.sh
+data/test_transform
 PA1_sgreyson_full.tar
 PA1_sgreyson.tar
 data/PA1_gutenberg_sample.zip
